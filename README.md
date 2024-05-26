@@ -1,6 +1,12 @@
+<div align="center">
+    <a href="https://islamhamdaoui.github.io/Todo-list-js/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-Link-brightgreen" alt="Demo Link">
+    </a>
+</div>
+
 # ToDo List App
 
-Welcome to the ToDo List App repository! This simple yet effective application allows users to manage their tasks efficiently. Built with HTML, CSS, and JavaScript, this app provides a seamless experience for creating, updating, and deleting tasks with ease.
+Welcome to the ToDo List App repository! This simple yet effective application allows users to manage their tasks efficiently. Built with HTML, CSS, and JavaScript, this app provides a seamless experience for creating, checking, and deleting tasks with ease.
 
 ## Features
 
