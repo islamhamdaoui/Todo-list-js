@@ -38,7 +38,7 @@ To download and run the ToDo List App locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/islamhamdaoui/Todo-list-js.git
 ```
 2. Navigate to the project directory:
 ```bash
